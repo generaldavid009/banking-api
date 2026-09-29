@@ -1,3 +1,6 @@
+# Banking API - FastAPI backend
+
+
 from fastapi import FastAPI
 import sqlite3 # we import notebook handler
 from fastapi.middleware.cors import CORSMiddleware # CORS = Cross-Origin Resource Sharing (Bouncer)
